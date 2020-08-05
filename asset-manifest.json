@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/comprehension/static/css/main.770e86d4.chunk.css",
+    "main.css": "/comprehension/static/css/main.fd630627.chunk.css",
     "main.js": "/comprehension/static/js/main.54f47b53.chunk.js",
     "main.js.map": "/comprehension/static/js/main.54f47b53.chunk.js.map",
     "runtime-main.js": "/comprehension/static/js/runtime-main.5e1d381b.js",
@@ -8,9 +8,9 @@
     "static/js/2.c129f08a.chunk.js": "/comprehension/static/js/2.c129f08a.chunk.js",
     "static/js/2.c129f08a.chunk.js.map": "/comprehension/static/js/2.c129f08a.chunk.js.map",
     "index.html": "/comprehension/index.html",
-    "precache-manifest.2e4d954464f7c461b47f950794a5866a.js": "/comprehension/precache-manifest.2e4d954464f7c461b47f950794a5866a.js",
+    "precache-manifest.c91afb7d689e5db517cd5f647b7feca2.js": "/comprehension/precache-manifest.c91afb7d689e5db517cd5f647b7feca2.js",
     "service-worker.js": "/comprehension/service-worker.js",
-    "static/css/main.770e86d4.chunk.css.map": "/comprehension/static/css/main.770e86d4.chunk.css.map",
+    "static/css/main.fd630627.chunk.css.map": "/comprehension/static/css/main.fd630627.chunk.css.map",
     "static/js/2.c129f08a.chunk.js.LICENSE.txt": "/comprehension/static/js/2.c129f08a.chunk.js.LICENSE.txt",
     "static/media/clock.png": "/comprehension/static/media/clock.4ffec318.png",
     "static/media/knowbotSVG.svg": "/comprehension/static/media/knowbotSVG.ae02fd80.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.5e1d381b.js",
     "static/js/2.c129f08a.chunk.js",
-    "static/css/main.770e86d4.chunk.css",
+    "static/css/main.fd630627.chunk.css",
     "static/js/main.54f47b53.chunk.js"
   ]
 }
